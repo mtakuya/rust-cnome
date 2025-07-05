@@ -1,4 +1,4 @@
-Please change main.sh to your environment.
+Modify main.sh to match your environment.
 
 ---
 
