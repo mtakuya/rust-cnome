@@ -1,3 +1,6 @@
 Please change main.sh to your environment.
 
-Usage: `./main.sh example`
+---
+
+Setting: `alias rust-cnome="PATH/rust-cnome/main.sh"`
+Usage: `rust-cnome example`
